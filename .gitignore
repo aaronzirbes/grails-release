@@ -4,4 +4,7 @@ grails-*.zip*
 plugin.xml
 pom.xml
 target
-web-app/WEB-INF/classes
+grails-app/conf/UrlMappings.groovy
+stacktrace.log
+web-app/
+
